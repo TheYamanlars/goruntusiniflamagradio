@@ -1,5 +1,9 @@
 # goruntusiniflamagradio
 goruntu siniflama gradio
+
+## New: Crisis Cubes Playbook (English)
+For the OEB 2025 “Leadership Stress Test” artifact, see **`CRISIS_CUBES_PLAYBOOK.md`** for the game-style, 7-minute demo and 3-minute feedback flow.
+
 Hedefimiz Ne?
 Bu kodun amacı, bir resim yüklediğimizde o resimde ne olduğunu tahmin eden (örneğin "bu bir kedi" veya "bu bir araba") bir web sayfası oluşturmak. Bunu yaparken de çok güçlü bir yapay zeka modeli kullanacağız ve web sayfasını kolayca oluşturmak için Gradio adlı bir araçtan faydalanacağız.
 Kullanacağımız Ana Araçlar (Kütüphaneler):
